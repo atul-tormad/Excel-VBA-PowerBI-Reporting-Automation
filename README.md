@@ -26,3 +26,15 @@ Built an automated reporting solution using Excel VBA and Power BI to clean raw 
 2. Click the "Run Automation" button
 3. Refresh Power BI dataset
 
+## Dashboard Preview
+
+### Overview Dashboard
+![Overview Dashboard](overview_dashboard.png)
+
+### Monthly Trends
+![Monthly Trends](monthly_trends.png)
+
+### Drill-down View
+![Drill-down View](drilldown_view.png)
+
+
